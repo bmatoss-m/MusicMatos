@@ -1,1 +1,20 @@
+def escolher_forma_pagamento():
+    print("Escolha a forma de pagamento:")
+    print("1 - PIX")
+    print("2 - Dinheiro")
+    print("3 - Cartão")
+    
+    opcao = input("Digite o número correspondente à sua escolha: ")
 
+    if opcao == "1":
+        return "PIX"
+    elif opcao == "2":
+        return "Dinheiro"
+    elif opcao == "3":
+        return "Cartão"
+    else:
+        return "Opção inválida! Tente novamente."
+
+# Execução
+forma_pagamento = escolher_forma_pagamento()
+print(f"Forma de pagamento escolhida: {forma_pagamento}")
