@@ -17,7 +17,7 @@ instrumentos = {
 }
 
 # Exibindo os instrumentos disponíveis e preços
-for instrumento, preco in instrumentos.items():
+for instrumento, preco in instrumentos.items(): 
     print(f"- {instrumento}: R$ {preco:.2f}")
 
 # Carrinho de compras
