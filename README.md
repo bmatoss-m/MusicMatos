@@ -9,4 +9,12 @@ FUNCIONALIDADES DO PROJETO
 * Promoções e ofertas especiais
 * Estoque e garantia
 
+MAIS INFORMAÇÕES SOBRE A MUSICMATOS
+Missão: A MusicMatos tem como missão facilitar o acesso dos músicos a instrumentos e equipamentos para expressar sua arte, tornando a música acessível e inspiradora, oferecendo recursos para todos os níveis na jornada musical.
+
+Visão: Queremos ser a principal referência no Brasil em venda de instrumentos musicais, com excelente atendimento e um portfólio completo de produtos, além de contribuir para o desenvolvimento musical de nossos clientes.
+
+Valores: Qualidade, atendimento, acessibilidade, educação musical e sustentabilidade.
+
 CRONOGRAMA DE DESENVOLVIMENTO
+28/11/2024: 
