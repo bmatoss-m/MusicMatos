@@ -20,7 +20,7 @@ Valores: Qualidade, atendimento, acessibilidade, educação musical e sustentabi
 
 CRONOGRAMA DE DESENVOLVIMENTO
 
-1º dia: tive o primeiro contato com o GitHub explorando o site e dei nome ao meu projeto.
+1º dia: tive o primeiro contato com o GitHub explorando o site e criei mum repositor.
 
 2º dia: criei o arquivo "Forma de Pagamento" e "Catálogo de Produtos".
 
