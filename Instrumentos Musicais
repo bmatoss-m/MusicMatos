@@ -14,7 +14,7 @@ instrumentos = {
     "Ukulele": 400.00,
     "Baixo": 1100.00,
     "Cajón": 350.00
-}
+} 
 
 # Exibindo os instrumentos disponíveis e preços
 for instrumento, preco in instrumentos.items(): 
