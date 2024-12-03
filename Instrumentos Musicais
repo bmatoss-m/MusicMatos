@@ -19,32 +19,3 @@ instrumentos = {
 # Exibindo os instrumentos disponíveis e preços
 for instrumento, preco in instrumentos.items(): 
     print(f"- {instrumento}: R$ {preco:.2f}")
-
-# Carrinho de compras
-carrinho = {}
-total = 0
-
-# Interação com o cliente
-while True:
-    escolha = input("\nQual instrumento você deseja adicionar ao carrinho (ou digite 'sair' para finalizar)? ").capitalize()
-
-    if escolha == "Sair":
-        break
-    elif escolha in instrumentos:
-        quantidade = int(input(f"Quantos {escolha}s você deseja? "))
-        carrinho[escolha] = quantidade
-        total += instrumentos[escolha] * quantidade
-        print(f"{quantidade} {escolha}(s) adicionados ao seu carrinho.")
-    else:
-        print("Desculpe, esse instrumento não está disponível. Tente novamente.")
-
-# Exibindo o resumo do carrinho
-print("\n🎸 Sua compra na Loja de Música 🎹")
-if carrinho:
-    for instrumento, quantidade in carrinho.items():
-        print(f"{quantidade} {instrumento}(s) - R$ {instrumentos[instrumento] * quantidade:.2f}")
-    print(f"\nTotal: R$ {total:.2f}")
-else:
-    print("Seu carrinho está vazio. Volte sempre!")
-
-print("\nObrigado por visitar nossa Loja de Música! Esperamos vê-lo novamente! 🎶")
