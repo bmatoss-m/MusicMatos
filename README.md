@@ -1,4 +1,4 @@
-OBJETIVOS DO PROJETO
+# OBJETIVOS DO PROJETO
 
 MusicMatos visa ser uma loja comprovadamente geral para músicos diversos níveis que vêm em linha com a oferta de uma ampla gama de instrumentos musicais, acessórios e outros produtos musicais. O foco principal da empresa é a música como expressão artística e oferece aos músicos os instrumentos usados para desenvolver habilidades e imaginativa.
 
