@@ -20,7 +20,7 @@ Visão: Queremos ser a principal referência no Brasil em venda de instrumentos 
 
 Valores: Qualidade, atendimento, acessibilidade, educação musical e sustentabilidade.
 
-CRONOGRAMA DE DESENVOLVIMENTO
+# CRONOGRAMA DE DESENVOLVIMENTO
 
 1º dia: tive o primeiro contato com o GitHub explorando o site e criei um repositor.
 
