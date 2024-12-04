@@ -1,8 +1,10 @@
+# Olá! Bem-vindo à MusicMatos, nossa loja de instrumentos musicais online.
+
 # OBJETIVOS DO PROJETO
 
 MusicMatos visa ser uma loja comprovadamente geral para músicos diversos níveis que vêm em linha com a oferta de uma ampla gama de instrumentos musicais, acessórios e outros produtos musicais. O foco principal da empresa é a música como expressão artística e oferece aos músicos os instrumentos usados para desenvolver habilidades e imaginativa.
 
-FUNCIONALIDADES DO PROJETO
+# FUNCIONALIDADES DO PROJETO
 * Catálogo de produtos
 * Carrinho de compras
 * Opções de pagamento
@@ -10,7 +12,7 @@ FUNCIONALIDADES DO PROJETO
 * Promoções e ofertas especiais
 * Estoque e garantia
 
-MAIS INFORMAÇÕES SOBRE A MUSICMATOS
+# MAIS INFORMAÇÕES SOBRE A MUSICMATOS
 
 Missão: A MusicMatos tem como missão facilitar o acesso dos músicos a instrumentos e equipamentos para expressar sua arte, tornando a música acessível e inspiradora, oferecendo recursos para todos os níveis na jornada musical.
 
@@ -20,7 +22,7 @@ Valores: Qualidade, atendimento, acessibilidade, educação musical e sustentabi
 
 CRONOGRAMA DE DESENVOLVIMENTO
 
-1º dia: tive o primeiro contato com o GitHub explorando o site e criei mum repositor.
+1º dia: tive o primeiro contato com o GitHub explorando o site e criei um repositor.
 
 2º dia: criei o arquivo "Forma de Pagamento" e "Catálogo de Produtos".
 
